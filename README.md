@@ -1,1 +1,5 @@
-# vite-node-demo
+Quick Start
+```sh
+pnpm i
+pnpm build
+```
